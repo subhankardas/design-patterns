@@ -17,7 +17,7 @@ import java.util.List;
  * 
  * Invoker: Simply executes a command
  * 
- * Command: Performs logic operations
+ * Command: Performs logic operations and maintains state
  * 
  * Receiver: Performs the action
  * 
